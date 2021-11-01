@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "2de50ed02c57efc2",
+    "type": "split",
+    "children": [
+      {
+        "id": "64a88318ecba9cd9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/To-Do & Follow-up.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "022791cc72f3103b",
+    "type": "split",
+    "children": [
+      {
+        "id": "39280f8ff3d8e61b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac6dfe35a6324afb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "143f7c84a2a210d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "44b4b0aad26281e2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "469d1f9ac9c2a977",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6809c8af792a20e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6951fb86f25a8370",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Templates/To-Do & Follow-up.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "be185ea32ea1686b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3149b1a2d9bda59a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/To-Do & Follow-up.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "64a88318ecba9cd9",
+  "lastOpenFiles": [
+    "Templates/To-Do & Follow-up.md",
+    "Templates/Map of Content.md",
+    "README.md",
+    "Templates/How-To_Procedures.md"
+  ]
+}
