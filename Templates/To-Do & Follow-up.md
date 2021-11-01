@@ -3,6 +3,6 @@ Date: {{date}}
 Time: {{time}}
 
 ## Items
-[ ] - Test
+- [ ] Test
 
 ## References

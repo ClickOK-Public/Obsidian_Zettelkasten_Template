@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "64a88318ecba9cd9",
+        "id": "9e865e4805a24c31",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Templates/To-Do & Follow-up.md",
-            "mode": "source"
+            "file": "Day Planners/Day Planner-20211101.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/To-Do & Follow-up.md",
+                "file": "Day Planners/Day Planner-20211101.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,22 +104,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/To-Do & Follow-up.md"
+                "file": "Day Planners/Day Planner-20211101.md"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "32200c899330dbb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5af811dbae1f2633",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "64a88318ecba9cd9",
+  "active": "9e865e4805a24c31",
   "lastOpenFiles": [
-    "Templates/To-Do & Follow-up.md",
+    "Day Planners/Day Planner-20211101.md",
+    "Day Planners/Day Planner-20211102.md",
+    "Show the Day Planner Timeline.md",
+    "Untitled.md",
+    "Kanban/Untitled Kanban.md",
+    "Kanban.md",
+    "Templates/How-To_Procedures.md",
     "Templates/Map of Content.md",
-    "README.md",
-    "Templates/How-To_Procedures.md"
+    "Templates/To-Do & Follow-up.md",
+    "README.md"
   ]
 }
