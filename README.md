@@ -1,0 +1,2 @@
+# Obsidian_Zettelkasten_Template
+Obsidian Zettelkasten Template
