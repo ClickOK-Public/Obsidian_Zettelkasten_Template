@@ -1,6 +1,5 @@
 # {{title}}
-
-  
+<hr>
 
 By: Dale P. Bada, ClickOK.no<br>
 
