@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
-            "mode": "source"
+            "file": "Templates/Pros_and_Cons.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
+                "file": "Templates/Pros_and_Cons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md"
+                "file": "Templates/Pros_and_Cons.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "2bd9b3e931e88534",
   "lastOpenFiles": [
+    "Templates/Pros_and_Cons.md",
+    "Templates/To-Do & Follow-up.md",
+    "Templates/Map of Content.md",
+    "Templates/How-To_Procedures.md",
+    "Templates/Fleeting Note Template.md",
     "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
     "Day Planners/Day Planner-20211103.md",
     "Day Planners/Day Planner-20211107.md",
     "Day Planners/Day Planner-20211106.md",
-    "Day Planners/Day Planner-20211105.md",
-    "Day Planners/Day Planner-20211104.md",
-    "Day Planners/Day Planner-20211108.md",
-    "Templates/To-Do & Follow-up.md",
-    "Templates/Map of Content.md",
-    "Templates/How-To_Procedures.md"
+    "Day Planners/Day Planner-20211105.md"
   ]
 }
