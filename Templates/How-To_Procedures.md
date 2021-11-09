@@ -5,7 +5,8 @@ By: Dale P. Bada, ClickOK.no<br>
 
 Date: {{date}}
 Time: {{time}}
-  
+ 
+<hr>
 
 ## Abstract
 Estimated reading time: <input> minutes</input>

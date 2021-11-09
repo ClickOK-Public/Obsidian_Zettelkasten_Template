@@ -9,4 +9,4 @@ PermaNotes represents a new insight or understanding of the topic and concept ad
 
 Alternatively, PermaNotes can be a question or new avenue of idea regarding a number of related notes. Inciting a new research topic or venture.
 
-## New Insights, Questions,  Understanding And Ideas
+## New Insights, Understanding, Arguments And Ideas

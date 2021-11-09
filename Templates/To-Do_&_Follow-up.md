@@ -2,6 +2,8 @@
 Date: {{date}}
 Time: {{time}}
 
+<hr>
+
 ## Items
 - [ ] Test
 

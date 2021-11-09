@@ -1,6 +1,6 @@
 # Contents
 
-Collection of summarized reiteration of resource and materials regarding a topic or concept. Based from own recall and understanding of the source material.
+Collection of summarized reflections and reiteration of resource and materials regarding a topic or concept. Based from own recall and understanding of the source material/fleeting-notes.
 
 - Litteratures
 - Articles
@@ -8,4 +8,6 @@ Collection of summarized reiteration of resource and materials regarding a topic
 - Pictures
 - 2nd or 3rd hand expositions
 
-## New Concepts And Ideas
+## Reflections, Thoughts and Comments
+
+## Questions and To-Dos

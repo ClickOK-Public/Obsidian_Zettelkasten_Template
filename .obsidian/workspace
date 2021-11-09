@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "99e30ba581b6d2cd",
+    "id": "4d4d7ccf377e1732",
     "type": "split",
     "children": [
       {
-        "id": "5a64226995e93cea",
+        "id": "d2bc1e7fb1f36c1a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/Biographic_notes.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Biographic_notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Templates/Biographic_notes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5a64226995e93cea",
+  "active": "d2bc1e7fb1f36c1a",
   "lastOpenFiles": [
-    "Templates/Biographic_notes.md",
-    "Templates/Fleeting_Note_Template.md",
-    "Templates/How-To_Procedures.md",
-    "Templates/Pros_and_Cons.md",
+    "Day Planners/Day Planner-20211109.md",
     "Templates/To-Do_&_Follow-up.md",
-    "01_FleetingNotes/Test.md",
-    "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
-    "Templates/Map_of_Content.md",
-    "Day Planners/Day Planner-20211103.md",
-    "Day Planners/Day Planner-20211107.md"
+    "Kanban/Untitled Kanban.md",
+    "Day Planners/Day Planner-20211102.md",
+    "Day Planners/Day Planner-20211108.md",
+    "Day Planners/Assessment_03_Day_01.md",
+    "02_SourceNotes/02_Source_Notes.md",
+    "Templates/Fleeting_Note_Template.md",
+    "03_PermaNotes/03_PermaNotes_Help_File.md",
+    "04_Structured_Material/04_Structured_Material_Help_File.md"
   ]
 }
