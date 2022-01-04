@@ -7,8 +7,11 @@
         "id": "d2bc1e7fb1f36c1a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,40 +103,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "32200c899330dbb5",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5af811dbae1f2633",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
+              "state": {
+                "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 224
   },
   "active": "d2bc1e7fb1f36c1a",
   "lastOpenFiles": [
+    "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
+    "02_SourceNotes/02_Source_Notes_Help_File.md",
+    "03_PermaNotes/03_PermaNotes_Help_File.md",
+    "04_Structured_Material/04_Structured_Material_Help_File.md",
+    "05_Lecture_Notes/05-Lecture_Notes_Help_File.md",
+    "Templates/Lecture_Notes.md",
     "Day Planners/Day Planner-20211109.md",
     "Templates/To-Do_&_Follow-up.md",
     "Kanban/Untitled Kanban.md",
-    "Day Planners/Day Planner-20211102.md",
-    "Day Planners/Day Planner-20211108.md",
-    "Day Planners/Assessment_03_Day_01.md",
-    "02_SourceNotes/02_Source_Notes.md",
-    "Templates/Fleeting_Note_Template.md",
-    "03_PermaNotes/03_PermaNotes_Help_File.md",
-    "04_Structured_Material/04_Structured_Material_Help_File.md"
+    "Day Planners/Day Planner-20211102.md"
   ]
 }

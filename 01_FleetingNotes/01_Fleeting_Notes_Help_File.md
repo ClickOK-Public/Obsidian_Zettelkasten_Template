@@ -1,5 +1,6 @@
 # Contents
 
+```ad-help
 Fleeting notes are loosely coupled small snippets of ideas, qoutes, questions, highlights, thoughts and resources regarding a topic.
 
 - Quotes
@@ -9,3 +10,6 @@ Fleeting notes are loosely coupled small snippets of ideas, qoutes, questions, h
 - etc.
 
 ## Captured Ideas
+
+```
+
