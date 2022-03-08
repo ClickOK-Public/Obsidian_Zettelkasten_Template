@@ -14,5 +14,6 @@ The whole Obsidian "Vault" is otherwise locally contained. It is therefore easy 
 See https://obsidian.md for more detail regarding the application it self. Read more about zettelkasten on Wikipedia, https://en.wikipedia.org/wiki/Zettelkasten.
 
 There are also many YouTube videos explaining the method and how to use and implement it. Check out:
-- Zettelkasten with pen and paper to digital: https://www.youtube.com/watch?v=RW8ZVUBTJp8
+- Zettelkasten with pen and paper: https://www.youtube.com/watch?v=QoFZQOJ8aA0
+- Zettelkasten with pen and paper to digital (rant): https://www.youtube.com/watch?v=RW8ZVUBTJp8
 - Zettelkasten with Obsidian: https://www.youtube.com/watch?v=ziE6UExsOrs
