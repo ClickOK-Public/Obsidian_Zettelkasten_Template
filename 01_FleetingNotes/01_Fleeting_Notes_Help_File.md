@@ -1,15 +1,23 @@
 # Contents
 
 ```ad-help
-Fleeting notes are loosely coupled small snippets of ideas, qoutes, questions, highlights, thoughts and resources regarding a topic.
+This directory is intended for "**fleeting notes**". Notes that are loosely coupled, small snippets of:
 
-- Quotes
 - Ideas
-- Tweets
-- Excerpts
-- etc.
+- Qoutes
+- Questions
+- Highlights
+- Thoughts and
+- Resources
 
-## Captured Ideas
+regarding a topic.
+
+Typically a on-the-fly jotted notes from a lecture. Reiteration, recall and/or immediate understanding of what has been discussed during a lecture or presentation.
+
+Fleeting notes are intended to be reviewed, studied and analyzed for later.
+
+## Keywords:
+### Immediately Captured Ideas
 
 ```
 

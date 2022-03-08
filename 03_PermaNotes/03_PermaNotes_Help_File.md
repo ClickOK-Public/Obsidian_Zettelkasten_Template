@@ -1,16 +1,22 @@
 # Contents
 
 ```ad-help
-PermaNotes is a 1 page coherent summation of linked  notes, both fleeting and source notes, which represents the general concept and ideas in a short and consise manner.
+This page is intended for "**Perma Notes**". A one-page coherent summation of interlinked  notes, fleeting notes, lecture notes, source notes etc. which represents the general concept and ideas in a short and consise manner.
 
-PermaNotes represents a new insight or understanding of the topic and concept addressed by the notes.
+- 1 page entry colating notes relevant to a topic/subject.
+- Reviewed and structured notes and other materials.
 
-- 1 page entry colating all relevant notes.
-- Provide concept and idea outline in isolation
+**Perma Notes** represents:
 
-Alternatively, PermaNotes can be a question or new avenue of idea regarding a number of related notes. Inciting a new research topic or venture.
+- A new insight or understanding of the topic and concept addressed by multiple notes/materials.
+- Collation of thoughts and ideas sementing understanding.
+- Provide concept and outlines to new idea.
+- And/or synthesis of new ideas.
 
-## New Insights, Understanding, Arguments And Ideas
+Alternatively, Perma Notes can be in a form of question(s) towards a new avenue of thought. Inciting a new research topic or venture.
+
+## Keywords:
+### New Insights, Understanding, Arguments Ideas and/or Questions
 
 ```
 

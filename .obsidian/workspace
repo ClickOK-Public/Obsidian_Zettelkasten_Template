@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,8 +104,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_FleetingNotes/01_Fleeting_Notes_Help_File.md"
+                "file": "README.md"
               }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d7e7147180c5eaa2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cfbb28bf2d94362",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
             }
           }
         ]
@@ -116,15 +131,15 @@
   },
   "active": "d2bc1e7fb1f36c1a",
   "lastOpenFiles": [
-    "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
-    "02_SourceNotes/02_Source_Notes_Help_File.md",
-    "03_PermaNotes/03_PermaNotes_Help_File.md",
-    "04_Structured_Material/04_Structured_Material_Help_File.md",
-    "05_Lecture_Notes/05-Lecture_Notes_Help_File.md",
-    "Templates/Lecture_Notes.md",
-    "Day Planners/Day Planner-20211109.md",
-    "Templates/To-Do_&_Follow-up.md",
+    "README.md",
+    "Untitled.md",
     "Kanban/Untitled Kanban.md",
-    "Day Planners/Day Planner-20211102.md"
+    "05_Lecture_Notes/05-Lecture_Notes_Help_File.md",
+    "02_Structured_Material/04_Structured_Material_Help_File.md",
+    "03_PermaNotes/03_PermaNotes_Help_File.md",
+    "04_SourceNotes/02_Source_Notes_Help_File.md",
+    "01_FleetingNotes/01_Fleeting_Notes_Help_File.md",
+    "Day Planners/Day Planner-20220104.md",
+    "Templates/Lecture_Notes.md"
   ]
 }

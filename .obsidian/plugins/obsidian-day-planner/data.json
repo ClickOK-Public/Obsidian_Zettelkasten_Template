@@ -1,8 +1,13 @@
 {
   "customFolder": "Day Planners",
-  "mode": 0,
+  "mode": 1,
   "mermaid": true,
-  "notesToDates": [],
+  "notesToDates": [
+    {
+      "notePath": "Day Planners/Day Planner-20220104.md",
+      "date": "Tue Mar 08 2022"
+    }
+  ],
   "completePastItems": true,
   "circularProgress": true,
   "nowAndNextInStatusBar": true,
